@@ -20,3 +20,6 @@ Continúa el Análisis Exploratorio de Datos. Recuerda que es tan importante com
 Sigue las sugerencias que te propusimos en los notebooks para continuar el Proyecto 03.
 
 Plantea un objetivo alcanzable. En esta etapa de tu formación, es preferible un problema sencillo bien abordado que uno ambicioso que no sabes cómo abordar. El objetivo debe estar correctamente explicitado. Debes explicar qué quieres hacer y qué esperas encontrar. Imagina que es una tarea en tu trabajo y tienes que explicarle a un/a jefe/a qué vas a hacer y por qué.
+
+# Dataset Clean
+Lo podrás encontrar [aquí](https://drive.google.com/drive/folders/1jwfhyozoOFDtoIm5tPDli-YWjrshcliV?usp=sharing)
