@@ -1,6 +1,8 @@
 # NLP_Redes_Neuronales_Proyecto4
 En este repositorio podrás encontrar una segunda iteración del proyecto 3. Aplicaciones actuales. NLP y Redes Neuronales para la clasificación de texto.
 
+Encontrarás adjunto el archivo del Proyecto 3 y al final de este readme el link donde podrás descargar los datos dataset_clean.
+
 # Consigna
 Te presentamos los pasos a seguir para realizar el proyecto 04.
 
